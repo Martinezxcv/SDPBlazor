@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDPBlazor", "SDPBlazor\SDPBlazor.csproj", "{7298CC59-9EC1-41F2-AC1A-9DE901E817C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7298CC59-9EC1-41F2-AC1A-9DE901E817C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7298CC59-9EC1-41F2-AC1A-9DE901E817C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7298CC59-9EC1-41F2-AC1A-9DE901E817C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7298CC59-9EC1-41F2-AC1A-9DE901E817C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A05F0C-7A2D-4BAE-AD46-F988269DA97C}
+	EndGlobalSection
+EndGlobal
